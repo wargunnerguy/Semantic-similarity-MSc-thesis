@@ -1,0 +1,6147 @@
+[
+    {
+        "word1": "abbot",
+        "word2": "bones",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "acting",
+        "word2": "chapter",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "aa",
+        "word2": "athletic",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "abroad",
+        "word2": "trilogy",
+        "frequency_sum": 78
+    },
+    {
+        "word1": "abroad",
+        "word2": "trilogy",
+        "frequency_sum": 80
+    },
+    {
+        "word1": "analytic",
+        "word2": "people",
+        "frequency_sum": 139
+    },
+    {
+        "word1": "aesop",
+        "word2": "local",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "adr",
+        "word2": "structural",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "affair",
+        "word2": "inspector",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "ancestry",
+        "word2": "selected",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "alec",
+        "word2": "micro",
+        "frequency_sum": 155
+    },
+    {
+        "word1": "animal",
+        "word2": "fuck",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "appendix",
+        "word2": "fly",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "auction",
+        "word2": "chapter",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "above",
+        "word2": "at",
+        "frequency_sum": 221
+    },
+    {
+        "word1": "automation",
+        "word2": "clinton",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "automation",
+        "word2": "ron",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "australia",
+        "word2": "berger",
+        "frequency_sum": 94
+    },
+    {
+        "word1": "a",
+        "word2": "lyon",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "adderall",
+        "word2": "alcohol",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "adjudication",
+        "word2": "report",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "agency",
+        "word2": "mammalian",
+        "frequency_sum": 114
+    },
+    {
+        "word1": "adventure",
+        "word2": "louise",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "adonis",
+        "word2": "environment",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "ah",
+        "word2": "altar",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "again",
+        "word2": "quietly",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "alice",
+        "word2": "ventilation",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "albanian",
+        "word2": "assist",
+        "frequency_sum": 86
+    },
+    {
+        "word1": "albanian",
+        "word2": "tamil",
+        "frequency_sum": 3869
+    },
+    {
+        "word1": "albuquerque",
+        "word2": "western",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "albuquerque",
+        "word2": "western",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "albert",
+        "word2": "huge",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "all",
+        "word2": "machinery",
+        "frequency_sum": 86
+    },
+    {
+        "word1": "anatomical",
+        "word2": "power",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "analysis",
+        "word2": "by",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "analytic",
+        "word2": "grad",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "ancestor",
+        "word2": "realm",
+        "frequency_sum": 1106
+    },
+    {
+        "word1": "analytic",
+        "word2": "grad",
+        "frequency_sum": 85
+    },
+    {
+        "word1": "anthology",
+        "word2": "az",
+        "frequency_sum": 73
+    },
+    {
+        "word1": "anna",
+        "word2": "desperately",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "another",
+        "word2": "adonis",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "apollo",
+        "word2": "multiplexer",
+        "frequency_sum": 99
+    },
+    {
+        "word1": "anova",
+        "word2": "newsletter",
+        "frequency_sum": 71
+    },
+    {
+        "word1": "anna",
+        "word2": "desperately",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "archaeology",
+        "word2": "bart",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "application",
+        "word2": "reactor",
+        "frequency_sum": 177
+    },
+    {
+        "word1": "appearance",
+        "word2": "mantra",
+        "frequency_sum": 256
+    },
+    {
+        "word1": "arsenal",
+        "word2": "northwest",
+        "frequency_sum": 72
+    },
+    {
+        "word1": "artifact",
+        "word2": "spirit",
+        "frequency_sum": 460
+    },
+    {
+        "word1": "art",
+        "word2": "unrealistic",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "artifact",
+        "word2": "spirit",
+        "frequency_sum": 449
+    },
+    {
+        "word1": "arm",
+        "word2": "meteorology",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "ask",
+        "word2": "barclays",
+        "frequency_sum": 101
+    },
+    {
+        "word1": "artifact",
+        "word2": "forging",
+        "frequency_sum": 525
+    },
+    {
+        "word1": "armadillo",
+        "word2": "fly",
+        "frequency_sum": 135
+    },
+    {
+        "word1": "artifact",
+        "word2": "forging",
+        "frequency_sum": 524
+    },
+    {
+        "word1": "assembly",
+        "word2": "competitive",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "auc",
+        "word2": "medina",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "atherosclerosis",
+        "word2": "report",
+        "frequency_sum": 203
+    },
+    {
+        "word1": "astro",
+        "word2": "dating",
+        "frequency_sum": 128
+    },
+    {
+        "word1": "assemble",
+        "word2": "period",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "attic",
+        "word2": "testing",
+        "frequency_sum": 95
+    },
+    {
+        "word1": "azithromycin",
+        "word2": "often",
+        "frequency_sum": 133
+    },
+    {
+        "word1": "auxiliary",
+        "word2": "bl",
+        "frequency_sum": 82
+    },
+    {
+        "word1": "avalanche",
+        "word2": "technique",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "blaze",
+        "word2": "cover",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "bl",
+        "word2": "wealth",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "better",
+        "word2": "thy",
+        "frequency_sum": 100
+    },
+    {
+        "word1": "berger",
+        "word2": "launch",
+        "frequency_sum": 97
+    },
+    {
+        "word1": "bid",
+        "word2": "vaccine",
+        "frequency_sum": 150
+    },
+    {
+        "word1": "better",
+        "word2": "thy",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "biggest",
+        "word2": "payback",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "benefit",
+        "word2": "webster",
+        "frequency_sum": 350
+    },
+    {
+        "word1": "berger",
+        "word2": "launch",
+        "frequency_sum": 99
+    },
+    {
+        "word1": "ba",
+        "word2": "oc",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "bl",
+        "word2": "wealth",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "burning",
+        "word2": "calendar",
+        "frequency_sum": 71
+    },
+    {
+        "word1": "bullying",
+        "word2": "chapter",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "boy",
+        "word2": "lament",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "bag",
+        "word2": "notification",
+        "frequency_sum": 87
+    },
+    {
+        "word1": "bronze",
+        "word2": "ranking",
+        "frequency_sum": 72
+    },
+    {
+        "word1": "bonus",
+        "word2": "maze",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "baby",
+        "word2": "fuck",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "broken",
+        "word2": "array",
+        "frequency_sum": 94
+    },
+    {
+        "word1": "byrd",
+        "word2": "available",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "back",
+        "word2": "mortality",
+        "frequency_sum": 1880
+    },
+    {
+        "word1": "band",
+        "word2": "mikhail",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "barbarian",
+        "word2": "cow",
+        "frequency_sum": 814
+    },
+    {
+        "word1": "barbarian",
+        "word2": "cow",
+        "frequency_sum": 756
+    },
+    {
+        "word1": "beast",
+        "word2": "sect",
+        "frequency_sum": 1140
+    },
+    {
+        "word1": "bavaria",
+        "word2": "measurement",
+        "frequency_sum": 70
+    },
+    {
+        "word1": "beast",
+        "word2": "core",
+        "frequency_sum": 168
+    },
+    {
+        "word1": "beast",
+        "word2": "sect",
+        "frequency_sum": 1126
+    },
+    {
+        "word1": "bennett",
+        "word2": "nazi",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "berkshire",
+        "word2": "cm",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "berkshire",
+        "word2": "cm",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "belle",
+        "word2": "submission",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "biomedical",
+        "word2": "red",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "bird",
+        "word2": "confederate",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "bisexual",
+        "word2": "by",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "blackberry",
+        "word2": "honeywell",
+        "frequency_sum": 129
+    },
+    {
+        "word1": "bhutan",
+        "word2": "chapter",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "bird",
+        "word2": "thus",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "bluff",
+        "word2": "daredevil",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "blood",
+        "word2": "breastfeeding",
+        "frequency_sum": 333
+    },
+    {
+        "word1": "bluff",
+        "word2": "daredevil",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "bliss",
+        "word2": "carson",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "blaze",
+        "word2": "cover",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "bloomberg",
+        "word2": "leo",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "blaze",
+        "word2": "ten",
+        "frequency_sum": 99
+    },
+    {
+        "word1": "bought",
+        "word2": "cinderella",
+        "frequency_sum": 75
+    },
+    {
+        "word1": "bradford",
+        "word2": "critical",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "bouquet",
+        "word2": "fever",
+        "frequency_sum": 74
+    },
+    {
+        "word1": "breakfast",
+        "word2": "snap",
+        "frequency_sum": 75
+    },
+    {
+        "word1": "brendan",
+        "word2": "share",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "breastfeeding",
+        "word2": "ingestion",
+        "frequency_sum": 228
+    },
+    {
+        "word1": "breaking",
+        "word2": "pill",
+        "frequency_sum": 1207
+    },
+    {
+        "word1": "breastfeeding",
+        "word2": "fly",
+        "frequency_sum": 232
+    },
+    {
+        "word1": "brother",
+        "word2": "huawei",
+        "frequency_sum": 129
+    },
+    {
+        "word1": "breaking",
+        "word2": "pill",
+        "frequency_sum": 1203
+    },
+    {
+        "word1": "built",
+        "word2": "literacy",
+        "frequency_sum": 148
+    },
+    {
+        "word1": "bundle",
+        "word2": "include",
+        "frequency_sum": 85
+    },
+    {
+        "word1": "burton",
+        "word2": "eden",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "bullshit",
+        "word2": "hal",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "buckinghamshire",
+        "word2": "am",
+        "frequency_sum": 53
+    },
+    {
+        "word1": "byrd",
+        "word2": "motions",
+        "frequency_sum": 87
+    },
+    {
+        "word1": "carried",
+        "word2": "mistress",
+        "frequency_sum": 160
+    },
+    {
+        "word1": "canal",
+        "word2": "code",
+        "frequency_sum": 75
+    },
+    {
+        "word1": "character",
+        "word2": "lighter",
+        "frequency_sum": 72
+    },
+    {
+        "word1": "cardiac",
+        "word2": "knot",
+        "frequency_sum": 100
+    },
+    {
+        "word1": "carving",
+        "word2": "hannah",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "cardiac",
+        "word2": "knot",
+        "frequency_sum": 86
+    },
+    {
+        "word1": "commerce",
+        "word2": "form",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "check",
+        "word2": "venus",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "coal",
+        "word2": "wastewater",
+        "frequency_sum": 151
+    },
+    {
+        "word1": "christmas",
+        "word2": "rodeo",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "circe",
+        "word2": "therapy",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "coal",
+        "word2": "wastewater",
+        "frequency_sum": 150
+    },
+    {
+        "word1": "christmas",
+        "word2": "veterinarian",
+        "frequency_sum": 121
+    },
+    {
+        "word1": "cheap",
+        "word2": "attack",
+        "frequency_sum": 110
+    },
+    {
+        "word1": "check",
+        "word2": "venus",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "copd",
+        "word2": "by",
+        "frequency_sum": 81
+    },
+    {
+        "word1": "corps",
+        "word2": "stephen",
+        "frequency_sum": 83
+    },
+    {
+        "word1": "contract",
+        "word2": "response",
+        "frequency_sum": 83
+    },
+    {
+        "word1": "cottage",
+        "word2": "trilogy",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "corps",
+        "word2": "vacant",
+        "frequency_sum": 135
+    },
+    {
+        "word1": "countless",
+        "word2": "language",
+        "frequency_sum": 153
+    },
+    {
+        "word1": "colloid",
+        "word2": "and",
+        "frequency_sum": 53
+    },
+    {
+        "word1": "crime",
+        "word2": "oxford",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "consider",
+        "word2": "profession",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "course",
+        "word2": "blast",
+        "frequency_sum": 86
+    },
+    {
+        "word1": "conflict",
+        "word2": "chapter",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "complicated",
+        "word2": "text",
+        "frequency_sum": 159
+    },
+    {
+        "word1": "comprehension",
+        "word2": "check",
+        "frequency_sum": 86
+    },
+    {
+        "word1": "countless",
+        "word2": "language",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "complicated",
+        "word2": "text",
+        "frequency_sum": 117
+    },
+    {
+        "word1": "compute",
+        "word2": "plumbing",
+        "frequency_sum": 153
+    },
+    {
+        "word1": "campbell",
+        "word2": "demonic",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "carl",
+        "word2": "pleasure",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "carried",
+        "word2": "walk",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "carnival",
+        "word2": "am",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "cell",
+        "word2": "week",
+        "frequency_sum": 2786
+    },
+    {
+        "word1": "caustic",
+        "word2": "katherine",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "cellular",
+        "word2": "physiology",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "cavitation",
+        "word2": "guide",
+        "frequency_sum": 71
+    },
+    {
+        "word1": "century",
+        "word2": "postcolonialism",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "charlotte",
+        "word2": "pinch",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "chen",
+        "word2": "tightly",
+        "frequency_sum": 155
+    },
+    {
+        "word1": "cherry",
+        "word2": "cartography",
+        "frequency_sum": 70
+    },
+    {
+        "word1": "chen",
+        "word2": "leisurely",
+        "frequency_sum": 57
+    },
+    {
+        "word1": "chen",
+        "word2": "flying",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "chilling",
+        "word2": "qi",
+        "frequency_sum": 92
+    },
+    {
+        "word1": "chilling",
+        "word2": "qi",
+        "frequency_sum": 118
+    },
+    {
+        "word1": "cherry",
+        "word2": "lit",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "chen",
+        "word2": "killing",
+        "frequency_sum": 145
+    },
+    {
+        "word1": "chilling",
+        "word2": "qi",
+        "frequency_sum": 119
+    },
+    {
+        "word1": "cingular",
+        "word2": "easily",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "clandestine",
+        "word2": "something",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "coach",
+        "word2": "jupiter",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "closely",
+        "word2": "graphic",
+        "frequency_sum": 642
+    },
+    {
+        "word1": "closely",
+        "word2": "graphic",
+        "frequency_sum": 599
+    },
+    {
+        "word1": "class",
+        "word2": "exemplify",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "cloud",
+        "word2": "martial",
+        "frequency_sum": 433
+    },
+    {
+        "word1": "cleansing",
+        "word2": "curse",
+        "frequency_sum": 135
+    },
+    {
+        "word1": "cleansing",
+        "word2": "curse",
+        "frequency_sum": 195
+    },
+    {
+        "word1": "closely",
+        "word2": "literacy",
+        "frequency_sum": 314
+    },
+    {
+        "word1": "clog",
+        "word2": "gwen",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "cogeneration",
+        "word2": "energy",
+        "frequency_sum": 119
+    },
+    {
+        "word1": "coffee",
+        "word2": "zion",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "comedy",
+        "word2": "rona",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "comcast",
+        "word2": "kodak",
+        "frequency_sum": 129
+    },
+    {
+        "word1": "condensation",
+        "word2": "pill",
+        "frequency_sum": 805
+    },
+    {
+        "word1": "commissioner",
+        "word2": "serb",
+        "frequency_sum": 94
+    },
+    {
+        "word1": "comprehensive",
+        "word2": "librarian",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "como",
+        "word2": "calvinism",
+        "frequency_sum": 112
+    },
+    {
+        "word1": "conceptual",
+        "word2": "hermes",
+        "frequency_sum": 99
+    },
+    {
+        "word1": "computerized",
+        "word2": "multiplexing",
+        "frequency_sum": 55
+    },
+    {
+        "word1": "con",
+        "word2": "lime",
+        "frequency_sum": 336
+    },
+    {
+        "word1": "comprehensive",
+        "word2": "librarian",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "contents",
+        "word2": "demolish",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "conrad",
+        "word2": "soldier",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "contemporary",
+        "word2": "esp",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "contents",
+        "word2": "mp3",
+        "frequency_sum": 79
+    },
+    {
+        "word1": "cone",
+        "word2": "mathematics",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "contour",
+        "word2": "pastel",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "congenital",
+        "word2": "realm",
+        "frequency_sum": 647
+    },
+    {
+        "word1": "contents",
+        "word2": "mp3",
+        "frequency_sum": 78
+    },
+    {
+        "word1": "congenital",
+        "word2": "realm",
+        "frequency_sum": 636
+    },
+    {
+        "word1": "cosmos",
+        "word2": "sack",
+        "frequency_sum": 943
+    },
+    {
+        "word1": "corrosion",
+        "word2": "critique",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "correspondence",
+        "word2": "or",
+        "frequency_sum": 147
+    },
+    {
+        "word1": "coveted",
+        "word2": "passion",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "creed",
+        "word2": "candidate",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "coupon",
+        "word2": "aging",
+        "frequency_sum": 87
+    },
+    {
+        "word1": "courageous",
+        "word2": "dracula",
+        "frequency_sum": 67
+    },
+    {
+        "word1": "courageous",
+        "word2": "dracula",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "courtesan",
+        "word2": "belle",
+        "frequency_sum": 722
+    },
+    {
+        "word1": "credibility",
+        "word2": "fiscal",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "craig",
+        "word2": "whole",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "cyan",
+        "word2": "cloud",
+        "frequency_sum": 345
+    },
+    {
+        "word1": "cytokine",
+        "word2": "report",
+        "frequency_sum": 95
+    },
+    {
+        "word1": "cuckold",
+        "word2": "bdsm",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "cunt",
+        "word2": "ate",
+        "frequency_sum": 90
+    },
+    {
+        "word1": "curry",
+        "word2": "whip",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "deeply",
+        "word2": "tasting",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "demolish",
+        "word2": "aluminum",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "demolish",
+        "word2": "electric",
+        "frequency_sum": 123
+    },
+    {
+        "word1": "decade",
+        "word2": "unknown",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "dec",
+        "word2": "km",
+        "frequency_sum": 154
+    },
+    {
+        "word1": "decade",
+        "word2": "unknown",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "drunk",
+        "word2": "chapter",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "disability",
+        "word2": "civilian",
+        "frequency_sum": 82
+    },
+    {
+        "word1": "domination",
+        "word2": "video",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "dutch",
+        "word2": "lawrence",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "dream",
+        "word2": "flash",
+        "frequency_sum": 123
+    },
+    {
+        "word1": "dramatic",
+        "word2": "stage",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "daughter",
+        "word2": "lazy",
+        "frequency_sum": 273
+    },
+    {
+        "word1": "damaging",
+        "word2": "distant",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "dan",
+        "word2": "bead",
+        "frequency_sum": 93
+    },
+    {
+        "word1": "delaware",
+        "word2": "glock",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "descriptive",
+        "word2": "anatomical",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "destroy",
+        "word2": "axis",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "determine",
+        "word2": "weather",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "demonic",
+        "word2": "palace",
+        "frequency_sum": 1445
+    },
+    {
+        "word1": "demonic",
+        "word2": "palace",
+        "frequency_sum": 1426
+    },
+    {
+        "word1": "developmental",
+        "word2": "cell",
+        "frequency_sum": 352
+    },
+    {
+        "word1": "demonic",
+        "word2": "qi",
+        "frequency_sum": 101
+    },
+    {
+        "word1": "devil",
+        "word2": "sovereign",
+        "frequency_sum": 188
+    },
+    {
+        "word1": "devil",
+        "word2": "sovereign",
+        "frequency_sum": 182
+    },
+    {
+        "word1": "disclaimer",
+        "word2": "our",
+        "frequency_sum": 162
+    },
+    {
+        "word1": "dexter",
+        "word2": "almost",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "dharma",
+        "word2": "idol",
+        "frequency_sum": 2035
+    },
+    {
+        "word1": "dharma",
+        "word2": "idol",
+        "frequency_sum": 2033
+    },
+    {
+        "word1": "dog",
+        "word2": "but",
+        "frequency_sum": 162
+    },
+    {
+        "word1": "discover",
+        "word2": "graded",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "dog",
+        "word2": "better",
+        "frequency_sum": 101
+    },
+    {
+        "word1": "dog",
+        "word2": "but",
+        "frequency_sum": 161
+    },
+    {
+        "word1": "dying",
+        "word2": "oscar",
+        "frequency_sum": 156
+    },
+    {
+        "word1": "duration",
+        "word2": "structurally",
+        "frequency_sum": 66
+    },
+    {
+        "word1": "duration",
+        "word2": "structurally",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "duplicate",
+        "word2": "deceased",
+        "frequency_sum": 57
+    },
+    {
+        "word1": "dublin",
+        "word2": "wealth",
+        "frequency_sum": 115
+    },
+    {
+        "word1": "end",
+        "word2": "burning",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "ecg",
+        "word2": "burn",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "editorial",
+        "word2": "full",
+        "frequency_sum": 82
+    },
+    {
+        "word1": "economist",
+        "word2": "eliza",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "ecg",
+        "word2": "involuntary",
+        "frequency_sum": 73
+    },
+    {
+        "word1": "echo",
+        "word2": "proof",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "east",
+        "word2": "payback",
+        "frequency_sum": 96
+    },
+    {
+        "word1": "epoxy",
+        "word2": "granite",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "ecstasy",
+        "word2": "chapter",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "east",
+        "word2": "que",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "each",
+        "word2": "ascertain",
+        "frequency_sum": 488
+    },
+    {
+        "word1": "equip",
+        "word2": "review",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "east",
+        "word2": "wonderfully",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "exhibition",
+        "word2": "post",
+        "frequency_sum": 75
+    },
+    {
+        "word1": "ethnicity",
+        "word2": "numerical",
+        "frequency_sum": 80
+    },
+    {
+        "word1": "earth",
+        "word2": "profound",
+        "frequency_sum": 950
+    },
+    {
+        "word1": "ethernet",
+        "word2": "data",
+        "frequency_sum": 87
+    },
+    {
+        "word1": "earth",
+        "word2": "profound",
+        "frequency_sum": 952
+    },
+    {
+        "word1": "earl",
+        "word2": "tip",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "exhibition",
+        "word2": "post",
+        "frequency_sum": 76
+    },
+    {
+        "word1": "excess",
+        "word2": "samuel",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "economy",
+        "word2": "foster",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "emma",
+        "word2": "melody",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "electronic",
+        "word2": "fourier",
+        "frequency_sum": 80
+    },
+    {
+        "word1": "emperor",
+        "word2": "expert",
+        "frequency_sum": 960
+    },
+    {
+        "word1": "electronic",
+        "word2": "fourier",
+        "frequency_sum": 83
+    },
+    {
+        "word1": "email",
+        "word2": "cora",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "enable",
+        "word2": "logo",
+        "frequency_sum": 66
+    },
+    {
+        "word1": "eliot",
+        "word2": "twice",
+        "frequency_sum": 71
+    },
+    {
+        "word1": "electron",
+        "word2": "multiple",
+        "frequency_sum": 90
+    },
+    {
+        "word1": "emperor",
+        "word2": "level",
+        "frequency_sum": 525
+    },
+    {
+        "word1": "electricity",
+        "word2": "model",
+        "frequency_sum": 125
+    },
+    {
+        "word1": "email",
+        "word2": "cora",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "er",
+        "word2": "tightly",
+        "frequency_sum": 74
+    },
+    {
+        "word1": "erotica",
+        "word2": "originally",
+        "frequency_sum": 116
+    },
+    {
+        "word1": "esperanto",
+        "word2": "tamil",
+        "frequency_sum": 3199
+    },
+    {
+        "word1": "esperanto",
+        "word2": "armenian",
+        "frequency_sum": 3199
+    },
+    {
+        "word1": "evangelical",
+        "word2": "resident",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "ethnicity",
+        "word2": "average",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "evangelical",
+        "word2": "resident",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "evaluation",
+        "word2": "by",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "esperanto",
+        "word2": "turkish",
+        "frequency_sum": 3200
+    },
+    {
+        "word1": "esperanto",
+        "word2": "turkish",
+        "frequency_sum": 3199
+    },
+    {
+        "word1": "explain",
+        "word2": "onedrive",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "exclude",
+        "word2": "piracy",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "execution",
+        "word2": "archipelago",
+        "frequency_sum": 268
+    },
+    {
+        "word1": "exit",
+        "word2": "dull",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "exit",
+        "word2": "dull",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "evidence",
+        "word2": "dixie",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "factory",
+        "word2": "seth",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "fatal",
+        "word2": "empire",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "fa",
+        "word2": "suffix",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "eye",
+        "word2": "hybridized",
+        "frequency_sum": 1880
+    },
+    {
+        "word1": "farm",
+        "word2": "parcel",
+        "frequency_sum": 90
+    },
+    {
+        "word1": "formerly",
+        "word2": "wood",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "fucking",
+        "word2": "disk",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "fl",
+        "word2": "csc",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "fallout",
+        "word2": "fractionation",
+        "frequency_sum": 87
+    },
+    {
+        "word1": "fatality",
+        "word2": "not",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "fart",
+        "word2": "toilet",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "fart",
+        "word2": "trick",
+        "frequency_sum": 176
+    },
+    {
+        "word1": "female",
+        "word2": "asset",
+        "frequency_sum": 112
+    },
+    {
+        "word1": "feminist",
+        "word2": "ha",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "female",
+        "word2": "asset",
+        "frequency_sum": 111
+    },
+    {
+        "word1": "file",
+        "word2": "endorsement",
+        "frequency_sum": 191
+    },
+    {
+        "word1": "fibromyalgia",
+        "word2": "foreign",
+        "frequency_sum": 105
+    },
+    {
+        "word1": "female",
+        "word2": "asset",
+        "frequency_sum": 124
+    },
+    {
+        "word1": "fierce",
+        "word2": "freshwater",
+        "frequency_sum": 57
+    },
+    {
+        "word1": "flagship",
+        "word2": "pearl",
+        "frequency_sum": 245
+    },
+    {
+        "word1": "fiscal",
+        "word2": "inquiry",
+        "frequency_sum": 142
+    },
+    {
+        "word1": "fly",
+        "word2": "serology",
+        "frequency_sum": 332
+    },
+    {
+        "word1": "florida",
+        "word2": "csc",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "flagship",
+        "word2": "pearl",
+        "frequency_sum": 243
+    },
+    {
+        "word1": "fit",
+        "word2": "grits",
+        "frequency_sum": 150
+    },
+    {
+        "word1": "fly",
+        "word2": "breastfeeding",
+        "frequency_sum": 231
+    },
+    {
+        "word1": "fix",
+        "word2": "dieting",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "flexible",
+        "word2": "description",
+        "frequency_sum": 87
+    },
+    {
+        "word1": "follow",
+        "word2": "cora",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "ford",
+        "word2": "blurb",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "follow",
+        "word2": "cora",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "futile",
+        "word2": "conventional",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "fungus",
+        "word2": "osprey",
+        "frequency_sum": 1880
+    },
+    {
+        "word1": "gamma",
+        "word2": "functional",
+        "frequency_sum": 82
+    },
+    {
+        "word1": "fugitive",
+        "word2": "catcher",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "fuck",
+        "word2": "fly",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "full",
+        "word2": "menthol",
+        "frequency_sum": 180
+    },
+    {
+        "word1": "fuck",
+        "word2": "foreplay",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "fujitsu",
+        "word2": "novartis",
+        "frequency_sum": 129
+    },
+    {
+        "word1": "guam",
+        "word2": "target",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "gold",
+        "word2": "ranking",
+        "frequency_sum": 72
+    },
+    {
+        "word1": "grand",
+        "word2": "ending",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "gambler",
+        "word2": "prosper",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "gate",
+        "word2": "disciple",
+        "frequency_sum": 112
+    },
+    {
+        "word1": "generalized",
+        "word2": "banana",
+        "frequency_sum": 138
+    },
+    {
+        "word1": "generalized",
+        "word2": "banana",
+        "frequency_sum": 131
+    },
+    {
+        "word1": "generic",
+        "word2": "particulate",
+        "frequency_sum": 80
+    },
+    {
+        "word1": "gesture",
+        "word2": "decorative",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "generator",
+        "word2": "dilute",
+        "frequency_sum": 103
+    },
+    {
+        "word1": "goddess",
+        "word2": "hmmm",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "god",
+        "word2": "continent",
+        "frequency_sum": 1180
+    },
+    {
+        "word1": "glenn",
+        "word2": "gentle",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "google",
+        "word2": "panasonic",
+        "frequency_sum": 129
+    },
+    {
+        "word1": "grand",
+        "word2": "dominance",
+        "frequency_sum": 307
+    },
+    {
+        "word1": "greenberg",
+        "word2": "scholarly",
+        "frequency_sum": 83
+    },
+    {
+        "word1": "grand",
+        "word2": "dominance",
+        "frequency_sum": 300
+    },
+    {
+        "word1": "ground",
+        "word2": "judgment",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "ground",
+        "word2": "judgment",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "groom",
+        "word2": "killer",
+        "frequency_sum": 2107
+    },
+    {
+        "word1": "guideline",
+        "word2": "notation",
+        "frequency_sum": 115
+    },
+    {
+        "word1": "groom",
+        "word2": "search",
+        "frequency_sum": 348
+    },
+    {
+        "word1": "guard",
+        "word2": "npm",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "heart",
+        "word2": "handbook",
+        "frequency_sum": 69
+    },
+    {
+        "word1": "handsome",
+        "word2": "chapter",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "hawaiian",
+        "word2": "area",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "hymn",
+        "word2": "table",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "humble",
+        "word2": "his",
+        "frequency_sum": 161
+    },
+    {
+        "word1": "hunting",
+        "word2": "beverage",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "honour",
+        "word2": "race",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "household",
+        "word2": "premise",
+        "frequency_sum": 142
+    },
+    {
+        "word1": "him",
+        "word2": "shudder",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "hunting",
+        "word2": "beverage",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "happiness",
+        "word2": "twilight",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "harder",
+        "word2": "deeper",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "harbour",
+        "word2": "company",
+        "frequency_sum": 71
+    },
+    {
+        "word1": "half",
+        "word2": "concrete",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "heaven",
+        "word2": "splitting",
+        "frequency_sum": 372
+    },
+    {
+        "word1": "hearing",
+        "word2": "gao",
+        "frequency_sum": 108
+    },
+    {
+        "word1": "heathers",
+        "word2": "relief",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "heaven",
+        "word2": "ranking",
+        "frequency_sum": 171
+    },
+    {
+        "word1": "heaven",
+        "word2": "splitting",
+        "frequency_sum": 393
+    },
+    {
+        "word1": "heavyweight",
+        "word2": "arena",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "heaven",
+        "word2": "ranking",
+        "frequency_sum": 165
+    },
+    {
+        "word1": "heaven",
+        "word2": "splitting",
+        "frequency_sum": 369
+    },
+    {
+        "word1": "heaven",
+        "word2": "splitting",
+        "frequency_sum": 348
+    },
+    {
+        "word1": "heaven",
+        "word2": "ranking",
+        "frequency_sum": 136
+    },
+    {
+        "word1": "health",
+        "word2": "weekly",
+        "frequency_sum": 4507
+    },
+    {
+        "word1": "helpful",
+        "word2": "define",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "heroic",
+        "word2": "assassin",
+        "frequency_sum": 108
+    },
+    {
+        "word1": "hen",
+        "word2": "jill",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "heroic",
+        "word2": "assassin",
+        "frequency_sum": 120
+    },
+    {
+        "word1": "hey",
+        "word2": "scruffy",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "hiroshima",
+        "word2": "akm",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "hmmm",
+        "word2": "angel",
+        "frequency_sum": 94
+    },
+    {
+        "word1": "hound",
+        "word2": "oh",
+        "frequency_sum": 71
+    },
+    {
+        "word1": "hubbell",
+        "word2": "leadership",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "house",
+        "word2": "ima",
+        "frequency_sum": 90
+    },
+    {
+        "word1": "huawei",
+        "word2": "schlumberger",
+        "frequency_sum": 129
+    },
+    {
+        "word1": "houston",
+        "word2": "secularism",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "hundred",
+        "word2": "poison",
+        "frequency_sum": 187
+    },
+    {
+        "word1": "hundred",
+        "word2": "poison",
+        "frequency_sum": 195
+    },
+    {
+        "word1": "hyperion",
+        "word2": "ic",
+        "frequency_sum": 94
+    },
+    {
+        "word1": "human",
+        "word2": "system",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "hutchinson",
+        "word2": "communication",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "hundred",
+        "word2": "beast",
+        "frequency_sum": 486
+    },
+    {
+        "word1": "hundred",
+        "word2": "beast",
+        "frequency_sum": 476
+    },
+    {
+        "word1": "impromptu",
+        "word2": "bride",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "identity",
+        "word2": "exposure",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "impromptu",
+        "word2": "bride",
+        "frequency_sum": 76
+    },
+    {
+        "word1": "individual",
+        "word2": "atlas",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "introduction",
+        "word2": "zip",
+        "frequency_sum": 110
+    },
+    {
+        "word1": "italics",
+        "word2": "enclosed",
+        "frequency_sum": 72
+    },
+    {
+        "word1": "it",
+        "word2": "shades",
+        "frequency_sum": 169
+    },
+    {
+        "word1": "internet",
+        "word2": "upside",
+        "frequency_sum": 57
+    },
+    {
+        "word1": "inference",
+        "word2": "name",
+        "frequency_sum": 82
+    },
+    {
+        "word1": "inside",
+        "word2": "romance",
+        "frequency_sum": 107
+    },
+    {
+        "word1": "if",
+        "word2": "laozi",
+        "frequency_sum": 115
+    },
+    {
+        "word1": "illinois",
+        "word2": "eno",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "illusion",
+        "word2": "donald",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "if",
+        "word2": "laozi",
+        "frequency_sum": 116
+    },
+    {
+        "word1": "imagine",
+        "word2": "graded",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "immortal",
+        "word2": "jump",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "immortal",
+        "word2": "jump",
+        "frequency_sum": 70
+    },
+    {
+        "word1": "immortal",
+        "word2": "qi",
+        "frequency_sum": 110
+    },
+    {
+        "word1": "impress",
+        "word2": "trivia",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "innate",
+        "word2": "realm",
+        "frequency_sum": 1014
+    },
+    {
+        "word1": "innate",
+        "word2": "divine",
+        "frequency_sum": 144
+    },
+    {
+        "word1": "initiation",
+        "word2": "sydney",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "inflammation",
+        "word2": "report",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "innate",
+        "word2": "realm",
+        "frequency_sum": 943
+    },
+    {
+        "word1": "innate",
+        "word2": "true",
+        "frequency_sum": 234
+    },
+    {
+        "word1": "influence",
+        "word2": "cheap",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "innate",
+        "word2": "realm",
+        "frequency_sum": 1526
+    },
+    {
+        "word1": "innate",
+        "word2": "realm",
+        "frequency_sum": 1449
+    },
+    {
+        "word1": "innate",
+        "word2": "true",
+        "frequency_sum": 233
+    },
+    {
+        "word1": "innate",
+        "word2": "divine",
+        "frequency_sum": 96
+    },
+    {
+        "word1": "infantile",
+        "word2": "adenoviral",
+        "frequency_sum": 223
+    },
+    {
+        "word1": "instrumental",
+        "word2": "feb",
+        "frequency_sum": 55
+    },
+    {
+        "word1": "insecurity",
+        "word2": "floyd",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "internship",
+        "word2": "pi",
+        "frequency_sum": 100
+    },
+    {
+        "word1": "inscription",
+        "word2": "fam",
+        "frequency_sum": 57
+    },
+    {
+        "word1": "instruction",
+        "word2": "pin",
+        "frequency_sum": 118
+    },
+    {
+        "word1": "janus",
+        "word2": "neutron",
+        "frequency_sum": 72
+    },
+    {
+        "word1": "join",
+        "word2": "silhouette",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "jericho",
+        "word2": "computer",
+        "frequency_sum": 79
+    },
+    {
+        "word1": "jointly",
+        "word2": "applicable",
+        "frequency_sum": 138
+    },
+    {
+        "word1": "jacob",
+        "word2": "ecuador",
+        "frequency_sum": 72
+    },
+    {
+        "word1": "jackie",
+        "word2": "cup",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "jane",
+        "word2": "teeth",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "jackie",
+        "word2": "pump",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "jackson",
+        "word2": "aesop",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "jerk",
+        "word2": "joke",
+        "frequency_sum": 179
+    },
+    {
+        "word1": "jenny",
+        "word2": "schedule",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "jesus",
+        "word2": "mao",
+        "frequency_sum": 359
+    },
+    {
+        "word1": "job",
+        "word2": "bet",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "judea",
+        "word2": "ug",
+        "frequency_sum": 115
+    },
+    {
+        "word1": "july",
+        "word2": "impromptu",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "killing",
+        "word2": "intent",
+        "frequency_sum": 224
+    },
+    {
+        "word1": "kale",
+        "word2": "pearson",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "killing",
+        "word2": "intent",
+        "frequency_sum": 159
+    },
+    {
+        "word1": "kerr",
+        "word2": "fiona",
+        "frequency_sum": 55
+    },
+    {
+        "word1": "king",
+        "word2": "swanson",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "kong",
+        "word2": "edition",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "korean",
+        "word2": "thesaurus",
+        "frequency_sum": 143
+    },
+    {
+        "word1": "kyle",
+        "word2": "grab",
+        "frequency_sum": 72
+    },
+    {
+        "word1": "kept",
+        "word2": "meditation",
+        "frequency_sum": 171
+    },
+    {
+        "word1": "kelvin",
+        "word2": "metre",
+        "frequency_sum": 57
+    },
+    {
+        "word1": "kept",
+        "word2": "yoga",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "kennedy",
+        "word2": "pursuant",
+        "frequency_sum": 128
+    },
+    {
+        "word1": "kind",
+        "word2": "occupancy",
+        "frequency_sum": 123
+    },
+    {
+        "word1": "killing",
+        "word2": "array",
+        "frequency_sum": 836
+    },
+    {
+        "word1": "killing",
+        "word2": "array",
+        "frequency_sum": 769
+    },
+    {
+        "word1": "knife",
+        "word2": "qi",
+        "frequency_sum": 386
+    },
+    {
+        "word1": "kong",
+        "word2": "threesome",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "knife",
+        "word2": "qi",
+        "frequency_sum": 385
+    },
+    {
+        "word1": "leopard",
+        "word2": "data",
+        "frequency_sum": 79
+    },
+    {
+        "word1": "leap",
+        "word2": "equilibrium",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "leu",
+        "word2": "in",
+        "frequency_sum": 158
+    },
+    {
+        "word1": "lexington",
+        "word2": "ll",
+        "frequency_sum": 90
+    },
+    {
+        "word1": "loved",
+        "word2": "cum",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "labrador",
+        "word2": "nh",
+        "frequency_sum": 73
+    },
+    {
+        "word1": "lymphoma",
+        "word2": "pearson",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "level",
+        "word2": "mathematics",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "latino",
+        "word2": "unlimited",
+        "frequency_sum": 55
+    },
+    {
+        "word1": "laser",
+        "word2": "sail",
+        "frequency_sum": 72
+    },
+    {
+        "word1": "leather",
+        "word2": "papers",
+        "frequency_sum": 81
+    },
+    {
+        "word1": "laurie",
+        "word2": "fuck",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "lee",
+        "word2": "auc",
+        "frequency_sum": 73
+    },
+    {
+        "word1": "laurie",
+        "word2": "cum",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "legion",
+        "word2": "kay",
+        "frequency_sum": 115
+    },
+    {
+        "word1": "laughter",
+        "word2": "collector",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "license",
+        "word2": "conversation",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "licensing",
+        "word2": "retrofit",
+        "frequency_sum": 157
+    },
+    {
+        "word1": "licensing",
+        "word2": "retrofit",
+        "frequency_sum": 160
+    },
+    {
+        "word1": "lit",
+        "word2": "reader",
+        "frequency_sum": 453
+    },
+    {
+        "word1": "level",
+        "word2": "realm",
+        "frequency_sum": 101
+    },
+    {
+        "word1": "listing",
+        "word2": "cornell",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "limitless",
+        "word2": "sword",
+        "frequency_sum": 292
+    },
+    {
+        "word1": "livingston",
+        "word2": "mailing",
+        "frequency_sum": 90
+    },
+    {
+        "word1": "livingston",
+        "word2": "website",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "limited",
+        "word2": "ultrasonic",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "liquor",
+        "word2": "worm",
+        "frequency_sum": 480
+    },
+    {
+        "word1": "lunchtime",
+        "word2": "distraction",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "marshall",
+        "word2": "reconnaissance",
+        "frequency_sum": 194
+    },
+    {
+        "word1": "mathematics",
+        "word2": "critical",
+        "frequency_sum": 117
+    },
+    {
+        "word1": "mars",
+        "word2": "anchor",
+        "frequency_sum": 66
+    },
+    {
+        "word1": "mb",
+        "word2": "jm",
+        "frequency_sum": 80
+    },
+    {
+        "word1": "manufacture",
+        "word2": "disposition",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "manufacture",
+        "word2": "disposition",
+        "frequency_sum": 53
+    },
+    {
+        "word1": "moldova",
+        "word2": "kl",
+        "frequency_sum": 55
+    },
+    {
+        "word1": "mistress",
+        "word2": "kept",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "mmmm",
+        "word2": "ride",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "mp3",
+        "word2": "clock",
+        "frequency_sum": 66
+    },
+    {
+        "word1": "modern",
+        "word2": "punching",
+        "frequency_sum": 121
+    },
+    {
+        "word1": "mmm",
+        "word2": "love",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "mmmm",
+        "word2": "yes",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "mhz",
+        "word2": "audit",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "modern",
+        "word2": "punching",
+        "frequency_sum": 94
+    },
+    {
+        "word1": "machine",
+        "word2": "treasure",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "myth",
+        "word2": "doug",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "macro",
+        "word2": "permanent",
+        "frequency_sum": 213
+    },
+    {
+        "word1": "maiden",
+        "word2": "cougar",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "malayalam",
+        "word2": "funeral",
+        "frequency_sum": 104
+    },
+    {
+        "word1": "manufacturing",
+        "word2": "ultrasonic",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "majority",
+        "word2": "wilderness",
+        "frequency_sum": 473
+    },
+    {
+        "word1": "malcolm",
+        "word2": "seoul",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "martial",
+        "word2": "nephew",
+        "frequency_sum": 246
+    },
+    {
+        "word1": "martial",
+        "word2": "immortal",
+        "frequency_sum": 281
+    },
+    {
+        "word1": "marshall",
+        "word2": "outsider",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "martial",
+        "word2": "meeting",
+        "frequency_sum": 764
+    },
+    {
+        "word1": "marcus",
+        "word2": "tasting",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "martial",
+        "word2": "nephew",
+        "frequency_sum": 228
+    },
+    {
+        "word1": "maurice",
+        "word2": "violate",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "mask",
+        "word2": "literature",
+        "frequency_sum": 96
+    },
+    {
+        "word1": "maryland",
+        "word2": "southeast",
+        "frequency_sum": 115
+    },
+    {
+        "word1": "meditation",
+        "word2": "facebook",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "mechanistic",
+        "word2": "dry",
+        "frequency_sum": 162
+    },
+    {
+        "word1": "metre",
+        "word2": "joule",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "melody",
+        "word2": "thankful",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "merit",
+        "word2": "lat",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "melody",
+        "word2": "unfortunately",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "meter",
+        "word2": "ard",
+        "frequency_sum": 71
+    },
+    {
+        "word1": "merit",
+        "word2": "lat",
+        "frequency_sum": 55
+    },
+    {
+        "word1": "middlesex",
+        "word2": "midi",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "mix",
+        "word2": "quiz",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "mmmm",
+        "word2": "kenny",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "mistress",
+        "word2": "charlotte",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "mistress",
+        "word2": "dawn",
+        "frequency_sum": 124
+    },
+    {
+        "word1": "modern",
+        "word2": "rheumatology",
+        "frequency_sum": 114
+    },
+    {
+        "word1": "mobil",
+        "word2": "mitsubishi",
+        "frequency_sum": 130
+    },
+    {
+        "word1": "monastery",
+        "word2": "la",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "mountain",
+        "word2": "splitting",
+        "frequency_sum": 350
+    },
+    {
+        "word1": "mound",
+        "word2": "aging",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "murky",
+        "word2": "drift",
+        "frequency_sum": 2820
+    },
+    {
+        "word1": "music",
+        "word2": "hp",
+        "frequency_sum": 66
+    },
+    {
+        "word1": "music",
+        "word2": "slug",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "mysterious",
+        "word2": "rank",
+        "frequency_sum": 149
+    },
+    {
+        "word1": "myriad",
+        "word2": "sword",
+        "frequency_sum": 1273
+    },
+    {
+        "word1": "muskrat",
+        "word2": "vector",
+        "frequency_sum": 53
+    },
+    {
+        "word1": "myriad",
+        "word2": "spirit",
+        "frequency_sum": 425
+    },
+    {
+        "word1": "muscular",
+        "word2": "sylvester",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "never",
+        "word2": "pirate",
+        "frequency_sum": 232
+    },
+    {
+        "word1": "na",
+        "word2": "scot",
+        "frequency_sum": 124
+    },
+    {
+        "word1": "nude",
+        "word2": "again",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "na",
+        "word2": "striking",
+        "frequency_sum": 55
+    },
+    {
+        "word1": "notice",
+        "word2": "the",
+        "frequency_sum": 158
+    },
+    {
+        "word1": "nascent",
+        "word2": "realm",
+        "frequency_sum": 241
+    },
+    {
+        "word1": "naturalization",
+        "word2": "internationally",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "need",
+        "word2": "zip",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "naturally",
+        "word2": "accelerate",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "nascent",
+        "word2": "realm",
+        "frequency_sum": 240
+    },
+    {
+        "word1": "need",
+        "word2": "zip",
+        "frequency_sum": 70
+    },
+    {
+        "word1": "natalie",
+        "word2": "collapse",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "nearby",
+        "word2": "download",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "nation",
+        "word2": "eligible",
+        "frequency_sum": 259
+    },
+    {
+        "word1": "nightly",
+        "word2": "screening",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "neuron",
+        "word2": "report",
+        "frequency_sum": 85
+    },
+    {
+        "word1": "nightly",
+        "word2": "screening",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "newsletter",
+        "word2": "absolutely",
+        "frequency_sum": 113
+    },
+    {
+        "word1": "never",
+        "word2": "duplicate",
+        "frequency_sum": 233
+    },
+    {
+        "word1": "norman",
+        "word2": "ombudsman",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "notice",
+        "word2": "the",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "northeast",
+        "word2": "eligible",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "nuclear",
+        "word2": "metallic",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "nuclear",
+        "word2": "metallic",
+        "frequency_sum": 66
+    },
+    {
+        "word1": "nuclear",
+        "word2": "metallic",
+        "frequency_sum": 67
+    },
+    {
+        "word1": "obelisk",
+        "word2": "properly",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "of",
+        "word2": "vintage",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "omg",
+        "word2": "steven",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "operating",
+        "word2": "mock",
+        "frequency_sum": 425
+    },
+    {
+        "word1": "operating",
+        "word2": "mock",
+        "frequency_sum": 422
+    },
+    {
+        "word1": "of",
+        "word2": "hematology",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "oswald",
+        "word2": "until",
+        "frequency_sum": 86
+    },
+    {
+        "word1": "occupied",
+        "word2": "plumbing",
+        "frequency_sum": 99
+    },
+    {
+        "word1": "observable",
+        "word2": "off",
+        "frequency_sum": 86
+    },
+    {
+        "word1": "our",
+        "word2": "google",
+        "frequency_sum": 82
+    },
+    {
+        "word1": "occupied",
+        "word2": "selected",
+        "frequency_sum": 251
+    },
+    {
+        "word1": "old",
+        "word2": "url",
+        "frequency_sum": 108
+    },
+    {
+        "word1": "onedrive",
+        "word2": "quick",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "onedrive",
+        "word2": "off",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "onedrive",
+        "word2": "off",
+        "frequency_sum": 96
+    },
+    {
+        "word1": "old",
+        "word2": "url",
+        "frequency_sum": 122
+    },
+    {
+        "word1": "onedrive",
+        "word2": "saving",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "optic",
+        "word2": "quantification",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "origin",
+        "word2": "pill",
+        "frequency_sum": 452
+    },
+    {
+        "word1": "online",
+        "word2": "picture",
+        "frequency_sum": 148
+    },
+    {
+        "word1": "origin",
+        "word2": "pill",
+        "frequency_sum": 451
+    },
+    {
+        "word1": "oregon",
+        "word2": "fay",
+        "frequency_sum": 90
+    },
+    {
+        "word1": "opposite",
+        "word2": "blockbuster",
+        "frequency_sum": 94
+    },
+    {
+        "word1": "onset",
+        "word2": "three",
+        "frequency_sum": 104
+    },
+    {
+        "word1": "owe",
+        "word2": "ep",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "p",
+        "word2": "ram",
+        "frequency_sum": 94
+    },
+    {
+        "word1": "osteomyelitis",
+        "word2": "bacterium",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "overview",
+        "word2": "investigator",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "p",
+        "word2": "ima",
+        "frequency_sum": 95
+    },
+    {
+        "word1": "osprey",
+        "word2": "wound",
+        "frequency_sum": 1880
+    },
+    {
+        "word1": "own",
+        "word2": "torture",
+        "frequency_sum": 231
+    },
+    {
+        "word1": "percent",
+        "word2": "nursery",
+        "frequency_sum": 83
+    },
+    {
+        "word1": "perfect",
+        "word2": "math",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "pep",
+        "word2": "ring",
+        "frequency_sum": 53
+    },
+    {
+        "word1": "permanent",
+        "word2": "crop",
+        "frequency_sum": 422
+    },
+    {
+        "word1": "poor",
+        "word2": "tray",
+        "frequency_sum": 160
+    },
+    {
+        "word1": "pirate",
+        "word2": "any",
+        "frequency_sum": 232
+    },
+    {
+        "word1": "pm",
+        "word2": "transmit",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "prince",
+        "word2": "pregnant",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "poisoning",
+        "word2": "chapter",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "pacey",
+        "word2": "continue",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "pacey",
+        "word2": "though",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "pudding",
+        "word2": "dr",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "pacey",
+        "word2": "tongue",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "promise",
+        "word2": "passion",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "pacey",
+        "word2": "fall",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "promise",
+        "word2": "passion",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "profitability",
+        "word2": "mike",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "parish",
+        "word2": "solar",
+        "frequency_sum": 88
+    },
+    {
+        "word1": "palmer",
+        "word2": "marry",
+        "frequency_sum": 73
+    },
+    {
+        "word1": "passionate",
+        "word2": "seduction",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "penicillin",
+        "word2": "typical",
+        "frequency_sum": 230
+    },
+    {
+        "word1": "passionate",
+        "word2": "deep",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "pet",
+        "word2": "crawl",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "pet",
+        "word2": "fortunately",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "person",
+        "word2": "torah",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "perpetual",
+        "word2": "rocky",
+        "frequency_sum": 974
+    },
+    {
+        "word1": "persuade",
+        "word2": "deep",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "persistent",
+        "word2": "taurus",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "persuade",
+        "word2": "deep",
+        "frequency_sum": 53
+    },
+    {
+        "word1": "pick",
+        "word2": "driving",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "philosophy",
+        "word2": "mile",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "phone",
+        "word2": "census",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "pig",
+        "word2": "shipping",
+        "frequency_sum": 124
+    },
+    {
+        "word1": "physician",
+        "word2": "courtyard",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "pig",
+        "word2": "shipping",
+        "frequency_sum": 119
+    },
+    {
+        "word1": "philology",
+        "word2": "que",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "physician",
+        "word2": "courtyard",
+        "frequency_sum": 85
+    },
+    {
+        "word1": "planning",
+        "word2": "vibration",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "plant",
+        "word2": "physiology",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "placement",
+        "word2": "pastel",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "plath",
+        "word2": "gone",
+        "frequency_sum": 159
+    },
+    {
+        "word1": "place",
+        "word2": "population",
+        "frequency_sum": 405
+    },
+    {
+        "word1": "please",
+        "word2": "dp",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "plot",
+        "word2": "helpful",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "playoff",
+        "word2": "deadly",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "please",
+        "word2": "standardized",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "polonium",
+        "word2": "assimilation",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "postnatal",
+        "word2": "realm",
+        "frequency_sum": 154
+    },
+    {
+        "word1": "portrait",
+        "word2": "placement",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "popular",
+        "word2": "typewriter",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "portrait",
+        "word2": "true",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "portable",
+        "word2": "had",
+        "frequency_sum": 73
+    },
+    {
+        "word1": "portrait",
+        "word2": "contour",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "popular",
+        "word2": "typewriter",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "postnatal",
+        "word2": "realm",
+        "frequency_sum": 145
+    },
+    {
+        "word1": "portable",
+        "word2": "had",
+        "frequency_sum": 72
+    },
+    {
+        "word1": "polish",
+        "word2": "mon",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "postnatal",
+        "word2": "realm",
+        "frequency_sum": 132
+    },
+    {
+        "word1": "postnatal",
+        "word2": "realm",
+        "frequency_sum": 128
+    },
+    {
+        "word1": "pressure",
+        "word2": "estimation",
+        "frequency_sum": 85
+    },
+    {
+        "word1": "preschooler",
+        "word2": "quickly",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "profound",
+        "word2": "grade",
+        "frequency_sum": 543
+    },
+    {
+        "word1": "procedural",
+        "word2": "hall",
+        "frequency_sum": 396
+    },
+    {
+        "word1": "priori",
+        "word2": "numerical",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "profound",
+        "word2": "qi",
+        "frequency_sum": 4130
+    },
+    {
+        "word1": "profile",
+        "word2": "update",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "prime",
+        "word2": "persuade",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "priori",
+        "word2": "numerical",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "promise",
+        "word2": "tangled",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "profound",
+        "word2": "qi",
+        "frequency_sum": 4129
+    },
+    {
+        "word1": "profession",
+        "word2": "absence",
+        "frequency_sum": 157
+    },
+    {
+        "word1": "primate",
+        "word2": "cattle",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "profound",
+        "word2": "realm",
+        "frequency_sum": 419
+    },
+    {
+        "word1": "profound",
+        "word2": "yellow",
+        "frequency_sum": 180
+    },
+    {
+        "word1": "profound",
+        "word2": "rank",
+        "frequency_sum": 1567
+    },
+    {
+        "word1": "program",
+        "word2": "pastel",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "profound",
+        "word2": "ice",
+        "frequency_sum": 503
+    },
+    {
+        "word1": "profound",
+        "word2": "yellow",
+        "frequency_sum": 466
+    },
+    {
+        "word1": "proprietary",
+        "word2": "appendix",
+        "frequency_sum": 112
+    },
+    {
+        "word1": "purgatory",
+        "word2": "mikhail",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "prosecutor",
+        "word2": "definitively",
+        "frequency_sum": 66
+    },
+    {
+        "word1": "pump",
+        "word2": "wavenumber",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "public",
+        "word2": "serving",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "qing",
+        "word2": "slightly",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "qi",
+        "word2": "disciple",
+        "frequency_sum": 1047
+    },
+    {
+        "word1": "qing",
+        "word2": "lightly",
+        "frequency_sum": 76
+    },
+    {
+        "word1": "qi",
+        "word2": "tornado",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "quark",
+        "word2": "account",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "quote",
+        "word2": "written",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "qing",
+        "word2": "bit",
+        "frequency_sum": 214
+    },
+    {
+        "word1": "question",
+        "word2": "papers",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "qi",
+        "word2": "tornado",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "qing",
+        "word2": "slightly",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "qing",
+        "word2": "lightly",
+        "frequency_sum": 73
+    },
+    {
+        "word1": "qi",
+        "word2": "nation",
+        "frequency_sum": 1253
+    },
+    {
+        "word1": "qi",
+        "word2": "nation",
+        "frequency_sum": 1254
+    },
+    {
+        "word1": "range",
+        "word2": "stucco",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "rachel",
+        "word2": "suzanne",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "rebecca",
+        "word2": "song",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "reprint",
+        "word2": "state",
+        "frequency_sum": 300
+    },
+    {
+        "word1": "reprint",
+        "word2": "ohio",
+        "frequency_sum": 219
+    },
+    {
+        "word1": "reprint",
+        "word2": "fort",
+        "frequency_sum": 461
+    },
+    {
+        "word1": "reprint",
+        "word2": "rochester",
+        "frequency_sum": 434
+    },
+    {
+        "word1": "reprint",
+        "word2": "frank",
+        "frequency_sum": 85
+    },
+    {
+        "word1": "ram",
+        "word2": "rad",
+        "frequency_sum": 86
+    },
+    {
+        "word1": "reprint",
+        "word2": "coast",
+        "frequency_sum": 95
+    },
+    {
+        "word1": "reprint",
+        "word2": "air",
+        "frequency_sum": 2184
+    },
+    {
+        "word1": "reprint",
+        "word2": "cincinnati",
+        "frequency_sum": 115
+    },
+    {
+        "word1": "reprint",
+        "word2": "arizona",
+        "frequency_sum": 388
+    },
+    {
+        "word1": "reprint",
+        "word2": "environmental",
+        "frequency_sum": 323
+    },
+    {
+        "word1": "reprint",
+        "word2": "oklahoma",
+        "frequency_sum": 150
+    },
+    {
+        "word1": "reprint",
+        "word2": "carnegie",
+        "frequency_sum": 203
+    },
+    {
+        "word1": "reprint",
+        "word2": "missouri",
+        "frequency_sum": 145
+    },
+    {
+        "word1": "romance",
+        "word2": "absolutely",
+        "frequency_sum": 106
+    },
+    {
+        "word1": "reprint",
+        "word2": "maryland",
+        "frequency_sum": 250
+    },
+    {
+        "word1": "reprint",
+        "word2": "minnesota",
+        "frequency_sum": 390
+    },
+    {
+        "word1": "reprint",
+        "word2": "brooke",
+        "frequency_sum": 316
+    },
+    {
+        "word1": "reprint",
+        "word2": "armed",
+        "frequency_sum": 870
+    },
+    {
+        "word1": "reprint",
+        "word2": "cornell",
+        "frequency_sum": 373
+    },
+    {
+        "word1": "reprint",
+        "word2": "toronto",
+        "frequency_sum": 147
+    },
+    {
+        "word1": "replica",
+        "word2": "important",
+        "frequency_sum": 79
+    },
+    {
+        "word1": "reprint",
+        "word2": "tel",
+        "frequency_sum": 211
+    },
+    {
+        "word1": "reprint",
+        "word2": "arctic",
+        "frequency_sum": 377
+    },
+    {
+        "word1": "reprint",
+        "word2": "atlantic",
+        "frequency_sum": 316
+    },
+    {
+        "word1": "reprint",
+        "word2": "northwestern",
+        "frequency_sum": 412
+    },
+    {
+        "word1": "reprint",
+        "word2": "oregon",
+        "frequency_sum": 166
+    },
+    {
+        "word1": "reprint",
+        "word2": "texas",
+        "frequency_sum": 1215
+    },
+    {
+        "word1": "reprint",
+        "word2": "harvard",
+        "frequency_sum": 706
+    },
+    {
+        "word1": "romance",
+        "word2": "absolutely",
+        "frequency_sum": 55
+    },
+    {
+        "word1": "reprint",
+        "word2": "georgetown",
+        "frequency_sum": 160
+    },
+    {
+        "word1": "reprint",
+        "word2": "duke",
+        "frequency_sum": 266
+    },
+    {
+        "word1": "reprint",
+        "word2": "syracuse",
+        "frequency_sum": 152
+    },
+    {
+        "word1": "rum",
+        "word2": "needed",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "romance",
+        "word2": "vacation",
+        "frequency_sum": 81
+    },
+    {
+        "word1": "reprint",
+        "word2": "princeton",
+        "frequency_sum": 618
+    },
+    {
+        "word1": "reprint",
+        "word2": "bureau",
+        "frequency_sum": 660
+    },
+    {
+        "word1": "reprint",
+        "word2": "joint",
+        "frequency_sum": 223
+    },
+    {
+        "word1": "ruby",
+        "word2": "having",
+        "frequency_sum": 55
+    },
+    {
+        "word1": "ruby",
+        "word2": "being",
+        "frequency_sum": 81
+    },
+    {
+        "word1": "reprint",
+        "word2": "wayne",
+        "frequency_sum": 143
+    },
+    {
+        "word1": "ruby",
+        "word2": "approximately",
+        "frequency_sum": 81
+    },
+    {
+        "word1": "reprint",
+        "word2": "utah",
+        "frequency_sum": 172
+    },
+    {
+        "word1": "ro",
+        "word2": "pan",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "reprint",
+        "word2": "western",
+        "frequency_sum": 95
+    },
+    {
+        "word1": "reprint",
+        "word2": "chicago",
+        "frequency_sum": 481
+    },
+    {
+        "word1": "reprint",
+        "word2": "walter",
+        "frequency_sum": 1104
+    },
+    {
+        "word1": "ruby",
+        "word2": "apparently",
+        "frequency_sum": 104
+    },
+    {
+        "word1": "reprint",
+        "word2": "indiana",
+        "frequency_sum": 273
+    },
+    {
+        "word1": "ruby",
+        "word2": "being",
+        "frequency_sum": 80
+    },
+    {
+        "word1": "ruby",
+        "word2": "shot",
+        "frequency_sum": 67
+    },
+    {
+        "word1": "racial",
+        "word2": "inside",
+        "frequency_sum": 208
+    },
+    {
+        "word1": "reprint",
+        "word2": "illinois",
+        "frequency_sum": 841
+    },
+    {
+        "word1": "reprint",
+        "word2": "navy",
+        "frequency_sum": 415
+    },
+    {
+        "word1": "reprint",
+        "word2": "city",
+        "frequency_sum": 145
+    },
+    {
+        "word1": "reprint",
+        "word2": "iowa",
+        "frequency_sum": 246
+    },
+    {
+        "word1": "reprint",
+        "word2": "virginia",
+        "frequency_sum": 252
+    },
+    {
+        "word1": "reprint",
+        "word2": "wisconsin",
+        "frequency_sum": 404
+    },
+    {
+        "word1": "reprint",
+        "word2": "purdue",
+        "frequency_sum": 186
+    },
+    {
+        "word1": "reprint",
+        "word2": "school",
+        "frequency_sum": 637
+    },
+    {
+        "word1": "ruby",
+        "word2": "between",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "ruby",
+        "word2": "shot",
+        "frequency_sum": 97
+    },
+    {
+        "word1": "reprint",
+        "word2": "yale",
+        "frequency_sum": 560
+    },
+    {
+        "word1": "ruby",
+        "word2": "always",
+        "frequency_sum": 137
+    },
+    {
+        "word1": "ruby",
+        "word2": "always",
+        "frequency_sum": 155
+    },
+    {
+        "word1": "ruby",
+        "word2": "approximately",
+        "frequency_sum": 82
+    },
+    {
+        "word1": "rake",
+        "word2": "penetration",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "rank",
+        "word2": "martial",
+        "frequency_sum": 471
+    },
+    {
+        "word1": "rank",
+        "word2": "martial",
+        "frequency_sum": 479
+    },
+    {
+        "word1": "ranking",
+        "word2": "fossil",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "realm",
+        "word2": "strength",
+        "frequency_sum": 57
+    },
+    {
+        "word1": "realm",
+        "word2": "martial",
+        "frequency_sum": 1463
+    },
+    {
+        "word1": "realm",
+        "word2": "practitioner",
+        "frequency_sum": 311
+    },
+    {
+        "word1": "realm",
+        "word2": "expert",
+        "frequency_sum": 270
+    },
+    {
+        "word1": "refinement",
+        "word2": "realm",
+        "frequency_sum": 94
+    },
+    {
+        "word1": "realm",
+        "word2": "disciple",
+        "frequency_sum": 200
+    },
+    {
+        "word1": "realm",
+        "word2": "expert",
+        "frequency_sum": 315
+    },
+    {
+        "word1": "receive",
+        "word2": "cora",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "refinement",
+        "word2": "realm",
+        "frequency_sum": 474
+    },
+    {
+        "word1": "receive",
+        "word2": "cora",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "realm",
+        "word2": "expert",
+        "frequency_sum": 274
+    },
+    {
+        "word1": "refusal",
+        "word2": "duplicate",
+        "frequency_sum": 133
+    },
+    {
+        "word1": "refinement",
+        "word2": "pellet",
+        "frequency_sum": 304
+    },
+    {
+        "word1": "realm",
+        "word2": "elder",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "rebel",
+        "word2": "debt",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "refinement",
+        "word2": "realm",
+        "frequency_sum": 97
+    },
+    {
+        "word1": "reputation",
+        "word2": "schooling",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "register",
+        "word2": "issue",
+        "frequency_sum": 1559
+    },
+    {
+        "word1": "reporter",
+        "word2": "burn",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "remedy",
+        "word2": "development",
+        "frequency_sum": 131
+    },
+    {
+        "word1": "reporter",
+        "word2": "burn",
+        "frequency_sum": 104
+    },
+    {
+        "word1": "remember",
+        "word2": "complicated",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "reporter",
+        "word2": "burn",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "reproducible",
+        "word2": "edition",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "retreat",
+        "word2": "synopsis",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "rhabdomyolysis",
+        "word2": "safe",
+        "frequency_sum": 81
+    },
+    {
+        "word1": "rhode",
+        "word2": "taft",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "restaurant",
+        "word2": "such",
+        "frequency_sum": 76
+    },
+    {
+        "word1": "rickets",
+        "word2": "safe",
+        "frequency_sum": 72
+    },
+    {
+        "word1": "rico",
+        "word2": "sd",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "rodent",
+        "word2": "rap",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "ripe",
+        "word2": "panties",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "roar",
+        "word2": "technique",
+        "frequency_sum": 123
+    },
+    {
+        "word1": "robin",
+        "word2": "auc",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "roulette",
+        "word2": "database",
+        "frequency_sum": 184
+    },
+    {
+        "word1": "rogue",
+        "word2": "fun",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "sample",
+        "word2": "historic",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "scarlett",
+        "word2": "steele",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "seconds",
+        "word2": "starting",
+        "frequency_sum": 119
+    },
+    {
+        "word1": "sacred",
+        "word2": "all",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "sect",
+        "word2": "master",
+        "frequency_sum": 90
+    },
+    {
+        "word1": "secularism",
+        "word2": "andrew",
+        "frequency_sum": 69
+    },
+    {
+        "word1": "selected",
+        "word2": "monthly",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "sofia",
+        "word2": "ban",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "southeast",
+        "word2": "university",
+        "frequency_sum": 126
+    },
+    {
+        "word1": "singapore",
+        "word2": "edition",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "sparrow",
+        "word2": "behind",
+        "frequency_sum": 80
+    },
+    {
+        "word1": "sparrow",
+        "word2": "behind",
+        "frequency_sum": 110
+    },
+    {
+        "word1": "spear",
+        "word2": "drift",
+        "frequency_sum": 75
+    },
+    {
+        "word1": "smith",
+        "word2": "fantasy",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "sink",
+        "word2": "wall",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "slowly",
+        "word2": "kissed",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "slash",
+        "word2": "chapter",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "southwest",
+        "word2": "university",
+        "frequency_sum": 89
+    },
+    {
+        "word1": "silver",
+        "word2": "ranking",
+        "frequency_sum": 72
+    },
+    {
+        "word1": "sparta",
+        "word2": "publishing",
+        "frequency_sum": 330
+    },
+    {
+        "word1": "spinning",
+        "word2": "volume",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "sword",
+        "word2": "qi",
+        "frequency_sum": 102
+    },
+    {
+        "word1": "survey",
+        "word2": "shipment",
+        "frequency_sum": 57
+    },
+    {
+        "word1": "survey",
+        "word2": "parcel",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "supernatural",
+        "word2": "various",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "survey",
+        "word2": "destination",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "subsidiary",
+        "word2": "present",
+        "frequency_sum": 111
+    },
+    {
+        "word1": "step",
+        "word2": "superfund",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "subsidiary",
+        "word2": "navigation",
+        "frequency_sum": 102
+    },
+    {
+        "word1": "sword",
+        "word2": "formation",
+        "frequency_sum": 106
+    },
+    {
+        "word1": "subsidiary",
+        "word2": "navigation",
+        "frequency_sum": 70
+    },
+    {
+        "word1": "successful",
+        "word2": "online",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "sword",
+        "word2": "intent",
+        "frequency_sum": 157
+    },
+    {
+        "word1": "successful",
+        "word2": "online",
+        "frequency_sum": 241
+    },
+    {
+        "word1": "sample",
+        "word2": "question",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "sandra",
+        "word2": "asshole",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "santorini",
+        "word2": "yet",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "saint",
+        "word2": "weapon",
+        "frequency_sum": 785
+    },
+    {
+        "word1": "saint",
+        "word2": "realm",
+        "frequency_sum": 615
+    },
+    {
+        "word1": "sage",
+        "word2": "qi",
+        "frequency_sum": 934
+    },
+    {
+        "word1": "scar",
+        "word2": "missing",
+        "frequency_sum": 1880
+    },
+    {
+        "word1": "search",
+        "word2": "erotica",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "scramble",
+        "word2": "feed",
+        "frequency_sum": 75
+    },
+    {
+        "word1": "search",
+        "word2": "topical",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "secretly",
+        "word2": "wild",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "scottish",
+        "word2": "belarus",
+        "frequency_sum": 79
+    },
+    {
+        "word1": "selected",
+        "word2": "structural",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "selected",
+        "word2": "structural",
+        "frequency_sum": 66
+    },
+    {
+        "word1": "shades",
+        "word2": "engage",
+        "frequency_sum": 1877
+    },
+    {
+        "word1": "seventh",
+        "word2": "bro",
+        "frequency_sum": 171
+    },
+    {
+        "word1": "shit",
+        "word2": "melody",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "sinusitis",
+        "word2": "bacterium",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "simon",
+        "word2": "usa",
+        "frequency_sum": 115
+    },
+    {
+        "word1": "sioux",
+        "word2": "rogue",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "snow",
+        "word2": "stunning",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "sky",
+        "word2": "explicit",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "society",
+        "word2": "london",
+        "frequency_sum": 98
+    },
+    {
+        "word1": "sky",
+        "word2": "worm",
+        "frequency_sum": 162
+    },
+    {
+        "word1": "society",
+        "word2": "dictionary",
+        "frequency_sum": 1656
+    },
+    {
+        "word1": "socket",
+        "word2": "twice",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "slave",
+        "word2": "cunt",
+        "frequency_sum": 122
+    },
+    {
+        "word1": "sky",
+        "word2": "profound",
+        "frequency_sum": 951
+    },
+    {
+        "word1": "sky",
+        "word2": "profound",
+        "frequency_sum": 938
+    },
+    {
+        "word1": "sky",
+        "word2": "worm",
+        "frequency_sum": 165
+    },
+    {
+        "word1": "sky",
+        "word2": "splitting",
+        "frequency_sum": 120
+    },
+    {
+        "word1": "sky",
+        "word2": "splitting",
+        "frequency_sum": 78
+    },
+    {
+        "word1": "sometime",
+        "word2": "third",
+        "frequency_sum": 99
+    },
+    {
+        "word1": "southeast",
+        "word2": "eligible",
+        "frequency_sum": 78
+    },
+    {
+        "word1": "softly",
+        "word2": "crap",
+        "frequency_sum": 57
+    },
+    {
+        "word1": "southwest",
+        "word2": "optics",
+        "frequency_sum": 168
+    },
+    {
+        "word1": "southeast",
+        "word2": "eligible",
+        "frequency_sum": 81
+    },
+    {
+        "word1": "somerset",
+        "word2": "whether",
+        "frequency_sum": 69
+    },
+    {
+        "word1": "spill",
+        "word2": "jump",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "spiritual",
+        "word2": "array",
+        "frequency_sum": 1022
+    },
+    {
+        "word1": "start",
+        "word2": "match",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "spiritual",
+        "word2": "array",
+        "frequency_sum": 1023
+    },
+    {
+        "word1": "splitting",
+        "word2": "slash",
+        "frequency_sum": 87
+    },
+    {
+        "word1": "spirit",
+        "word2": "vein",
+        "frequency_sum": 318
+    },
+    {
+        "word1": "start",
+        "word2": "did",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "splitting",
+        "word2": "slash",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "stage",
+        "word2": "warrior",
+        "frequency_sum": 602
+    },
+    {
+        "word1": "stephanie",
+        "word2": "inter",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "stage",
+        "word2": "realm",
+        "frequency_sum": 317
+    },
+    {
+        "word1": "steam",
+        "word2": "ranking",
+        "frequency_sum": 67
+    },
+    {
+        "word1": "starr",
+        "word2": "medieval",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "stage",
+        "word2": "warrior",
+        "frequency_sum": 600
+    },
+    {
+        "word1": "stanford",
+        "word2": "broken",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "stone",
+        "word2": "confucianism",
+        "frequency_sum": 96
+    },
+    {
+        "word1": "stranger",
+        "word2": "approach",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "success",
+        "word2": "realm",
+        "frequency_sum": 265
+    },
+    {
+        "word1": "successor",
+        "word2": "disciple",
+        "frequency_sum": 851
+    },
+    {
+        "word1": "suck",
+        "word2": "start",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "subclass",
+        "word2": "main",
+        "frequency_sum": 129
+    },
+    {
+        "word1": "summarize",
+        "word2": "material",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "sword",
+        "word2": "domain",
+        "frequency_sum": 1091
+    },
+    {
+        "word1": "suspect",
+        "word2": "table",
+        "frequency_sum": 55
+    },
+    {
+        "word1": "surprise",
+        "word2": "cuisine",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "supreme",
+        "word2": "qi",
+        "frequency_sum": 153
+    },
+    {
+        "word1": "supplemental",
+        "word2": "stack",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "supernova",
+        "word2": "indie",
+        "frequency_sum": 193
+    },
+    {
+        "word1": "supernatural",
+        "word2": "virginia",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "sweeney",
+        "word2": "krishna",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "supplemental",
+        "word2": "stack",
+        "frequency_sum": 66
+    },
+    {
+        "word1": "supplemental",
+        "word2": "stack",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "supplemental",
+        "word2": "stack",
+        "frequency_sum": 78
+    },
+    {
+        "word1": "tc",
+        "word2": "wealth",
+        "frequency_sum": 126
+    },
+    {
+        "word1": "temperature",
+        "word2": "pressure",
+        "frequency_sum": 86
+    },
+    {
+        "word1": "ti",
+        "word2": "cree",
+        "frequency_sum": 129
+    },
+    {
+        "word1": "too",
+        "word2": "damned",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "title",
+        "word2": "samurai",
+        "frequency_sum": 81
+    },
+    {
+        "word1": "theater",
+        "word2": "benchmark",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "thriller",
+        "word2": "miniseries",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "thy",
+        "word2": "wit",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "though",
+        "word2": "solitude",
+        "frequency_sum": 160
+    },
+    {
+        "word1": "tiffany",
+        "word2": "rl",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "toyota",
+        "word2": "develop",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "taboo",
+        "word2": "e",
+        "frequency_sum": 97
+    },
+    {
+        "word1": "take",
+        "word2": "atari",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "turning",
+        "word2": "steve",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "tuition",
+        "word2": "id",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "taboo",
+        "word2": "e",
+        "frequency_sum": 118
+    },
+    {
+        "word1": "t",
+        "word2": "tack",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "turkey",
+        "word2": "ino",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "tail",
+        "word2": "mortality",
+        "frequency_sum": 1880
+    },
+    {
+        "word1": "tb",
+        "word2": "flush",
+        "frequency_sum": 212
+    },
+    {
+        "word1": "tentacle",
+        "word2": "trilogy",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "tentacle",
+        "word2": "breeding",
+        "frequency_sum": 360
+    },
+    {
+        "word1": "tasting",
+        "word2": "dawson",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "tentacle",
+        "word2": "breeding",
+        "frequency_sum": 90
+    },
+    {
+        "word1": "tentacle",
+        "word2": "breeding",
+        "frequency_sum": 270
+    },
+    {
+        "word1": "text",
+        "word2": "robert",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "th",
+        "word2": "flush",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "testing",
+        "word2": "boron",
+        "frequency_sum": 79
+    },
+    {
+        "word1": "theater",
+        "word2": "distribute",
+        "frequency_sum": 113
+    },
+    {
+        "word1": "therapy",
+        "word2": "compost",
+        "frequency_sum": 122
+    },
+    {
+        "word1": "thirst",
+        "word2": "corporal",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "this",
+        "word2": "doe",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "thirst",
+        "word2": "corporal",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "thrombosis",
+        "word2": "report",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "thunder",
+        "word2": "dominion",
+        "frequency_sum": 279
+    },
+    {
+        "word1": "tit",
+        "word2": "pleasure",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "threesome",
+        "word2": "between",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "tick",
+        "word2": "primate",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "threesome",
+        "word2": "smoke",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "threesome",
+        "word2": "randall",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "tma",
+        "word2": "tokyo",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "todd",
+        "word2": "tongue",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "tomorrow",
+        "word2": "optical",
+        "frequency_sum": 95
+    },
+    {
+        "word1": "tommy",
+        "word2": "andover",
+        "frequency_sum": 248
+    },
+    {
+        "word1": "tony",
+        "word2": "tasting",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "together",
+        "word2": "twa",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "toilet",
+        "word2": "separate",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "triple",
+        "word2": "bible",
+        "frequency_sum": 2038
+    },
+    {
+        "word1": "transformation",
+        "word2": "realm",
+        "frequency_sum": 103
+    },
+    {
+        "word1": "trichinosis",
+        "word2": "parasite",
+        "frequency_sum": 112
+    },
+    {
+        "word1": "tracking",
+        "word2": "antarctic",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "transfer",
+        "word2": "separated",
+        "frequency_sum": 81
+    },
+    {
+        "word1": "trench",
+        "word2": "moisture",
+        "frequency_sum": 138
+    },
+    {
+        "word1": "transition",
+        "word2": "ua",
+        "frequency_sum": 98
+    },
+    {
+        "word1": "transfer",
+        "word2": "nautilus",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "trend",
+        "word2": "ultimately",
+        "frequency_sum": 71
+    },
+    {
+        "word1": "twenty",
+        "word2": "explicit",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "trout",
+        "word2": "beyond",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "turbidity",
+        "word2": "gin",
+        "frequency_sum": 2820
+    },
+    {
+        "word1": "turtle",
+        "word2": "sect",
+        "frequency_sum": 218
+    },
+    {
+        "word1": "twain",
+        "word2": "zero",
+        "frequency_sum": 146
+    },
+    {
+        "word1": "truly",
+        "word2": "rude",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "tucson",
+        "word2": "vice",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "turkish",
+        "word2": "leg",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "twenty",
+        "word2": "explicit",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "turtle",
+        "word2": "aura",
+        "frequency_sum": 69
+    },
+    {
+        "word1": "tunnel",
+        "word2": "nitrogen",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "twist",
+        "word2": "straight",
+        "frequency_sum": 112
+    },
+    {
+        "word1": "usat",
+        "word2": "without",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "tyrant",
+        "word2": "profound",
+        "frequency_sum": 114
+    },
+    {
+        "word1": "tyrant",
+        "word2": "fist",
+        "frequency_sum": 784
+    },
+    {
+        "word1": "tyrant",
+        "word2": "profound",
+        "frequency_sum": 115
+    },
+    {
+        "word1": "tyrant",
+        "word2": "fist",
+        "frequency_sum": 785
+    },
+    {
+        "word1": "tyrant",
+        "word2": "blade",
+        "frequency_sum": 597
+    },
+    {
+        "word1": "tyrant",
+        "word2": "fist",
+        "frequency_sum": 779
+    },
+    {
+        "word1": "up",
+        "word2": "sub",
+        "frequency_sum": 89
+    },
+    {
+        "word1": "tyrant",
+        "word2": "fist",
+        "frequency_sum": 780
+    },
+    {
+        "word1": "tyrant",
+        "word2": "blade",
+        "frequency_sum": 598
+    },
+    {
+        "word1": "ultrasonic",
+        "word2": "off",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "umm",
+        "word2": "jennifer",
+        "frequency_sum": 124
+    },
+    {
+        "word1": "uncle",
+        "word2": "police",
+        "frequency_sum": 93
+    },
+    {
+        "word1": "university",
+        "word2": "edu",
+        "frequency_sum": 85
+    },
+    {
+        "word1": "unconventional",
+        "word2": "canonical",
+        "frequency_sum": 96
+    },
+    {
+        "word1": "umm",
+        "word2": "mistress",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "unconventional",
+        "word2": "canonical",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "ultrasonic",
+        "word2": "off",
+        "frequency_sum": 70
+    },
+    {
+        "word1": "va",
+        "word2": "executive",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "uranus",
+        "word2": "integral",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "unreasonable",
+        "word2": "irrational",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "unmodified",
+        "word2": "combustion",
+        "frequency_sum": 80
+    },
+    {
+        "word1": "unreasonable",
+        "word2": "irrational",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "vulture",
+        "word2": "manual",
+        "frequency_sum": 85
+    },
+    {
+        "word1": "vacation",
+        "word2": "wake",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "volume",
+        "word2": "thermal",
+        "frequency_sum": 82
+    },
+    {
+        "word1": "volume",
+        "word2": "vacuum",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "vulture",
+        "word2": "manual",
+        "frequency_sum": 82
+    },
+    {
+        "word1": "vinegar",
+        "word2": "chapter",
+        "frequency_sum": 53
+    },
+    {
+        "word1": "versatile",
+        "word2": "computational",
+        "frequency_sum": 71
+    },
+    {
+        "word1": "vice",
+        "word2": "pavilion",
+        "frequency_sum": 726
+    },
+    {
+        "word1": "vector",
+        "word2": "bacterium",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "vector",
+        "word2": "mountain",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "very",
+        "word2": "successful",
+        "frequency_sum": 142
+    },
+    {
+        "word1": "venice",
+        "word2": "sacred",
+        "frequency_sum": 80
+    },
+    {
+        "word1": "verify",
+        "word2": "taste",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "via",
+        "word2": "destroyer",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "verify",
+        "word2": "taste",
+        "frequency_sum": 53
+    },
+    {
+        "word1": "vienna",
+        "word2": "fly",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "vietnamese",
+        "word2": "bible",
+        "frequency_sum": 6398
+    },
+    {
+        "word1": "with",
+        "word2": "laser",
+        "frequency_sum": 59
+    },
+    {
+        "word1": "wharf",
+        "word2": "book",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "wag",
+        "word2": "contaminant",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "warning",
+        "word2": "chapter",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "warming",
+        "word2": "series",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "wikipedia",
+        "word2": "chapter",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "wag",
+        "word2": "characterization",
+        "frequency_sum": 129
+    },
+    {
+        "word1": "wartime",
+        "word2": "expansion",
+        "frequency_sum": 173
+    },
+    {
+        "word1": "watching",
+        "word2": "runner",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "weaver",
+        "word2": "extinction",
+        "frequency_sum": 81
+    },
+    {
+        "word1": "wealthy",
+        "word2": "maurice",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "way",
+        "word2": "miniseries",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "wheat",
+        "word2": "nature",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "whitney",
+        "word2": "fluid",
+        "frequency_sum": 124
+    },
+    {
+        "word1": "when",
+        "word2": "laozi",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "when",
+        "word2": "laozi",
+        "frequency_sum": 53
+    },
+    {
+        "word1": "whore",
+        "word2": "bedroom",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "wicked",
+        "word2": "entrepreneurship",
+        "frequency_sum": 178
+    },
+    {
+        "word1": "wind",
+        "word2": "attribute",
+        "frequency_sum": 267
+    },
+    {
+        "word1": "wiltshire",
+        "word2": "wealth",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "winning",
+        "word2": "analyze",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "woodward",
+        "word2": "identity",
+        "frequency_sum": 109
+    },
+    {
+        "word1": "wool",
+        "word2": "anxious",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "work",
+        "word2": "sway",
+        "frequency_sum": 64
+    },
+    {
+        "word1": "yugoslavia",
+        "word2": "photo",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "ya",
+        "word2": "flush",
+        "frequency_sum": 97
+    },
+    {
+        "word1": "ye",
+        "word2": "tightly",
+        "frequency_sum": 73
+    },
+    {
+        "word1": "wyvern",
+        "word2": "exciting",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "yellowstone",
+        "word2": "catch",
+        "frequency_sum": 491
+    },
+    {
+        "word1": "zero",
+        "word2": "excerpt",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "zeiss",
+        "word2": "ibm",
+        "frequency_sum": 129
+    },
+    {
+        "word1": "above",
+        "word2": "major",
+        "frequency_sum": 77
+    },
+    {
+        "word1": "abe",
+        "word2": "acetone",
+        "frequency_sum": 51
+    },
+    {
+        "word1": "aba",
+        "word2": "allergic",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "abe",
+        "word2": "actual",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "acquisition",
+        "word2": "throat",
+        "frequency_sum": 223
+    },
+    {
+        "word1": "adorable",
+        "word2": "absolutely",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "aids",
+        "word2": "professional",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "amanda",
+        "word2": "came",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "ample",
+        "word2": "babe",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "artificial",
+        "word2": "listing",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "asian",
+        "word2": "while",
+        "frequency_sum": 120
+    },
+    {
+        "word1": "atlas",
+        "word2": "treasury",
+        "frequency_sum": 70
+    },
+    {
+        "word1": "automaker",
+        "word2": "which",
+        "frequency_sum": 103
+    },
+    {
+        "word1": "behind",
+        "word2": "calcium",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "benchmark",
+        "word2": "pca",
+        "frequency_sum": 63
+    },
+    {
+        "word1": "book",
+        "word2": "blush",
+        "frequency_sum": 1476
+    },
+    {
+        "word1": "botanical",
+        "word2": "electricity",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "brass",
+        "word2": "term",
+        "frequency_sum": 87
+    },
+    {
+        "word1": "catalogue",
+        "word2": "eel",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "certainty",
+        "word2": "makeup",
+        "frequency_sum": 53
+    },
+    {
+        "word1": "classification",
+        "word2": "meningitis",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "cock",
+        "word2": "precedent",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "comforting",
+        "word2": "dildo",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "colony",
+        "word2": "lutheran",
+        "frequency_sum": 55
+    },
+    {
+        "word1": "compact",
+        "word2": "plantation",
+        "frequency_sum": 803
+    },
+    {
+        "word1": "compare",
+        "word2": "invitee",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "compendium",
+        "word2": "pleasant",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "computerized",
+        "word2": "sensitive",
+        "frequency_sum": 70
+    },
+    {
+        "word1": "complicate",
+        "word2": "leukemia",
+        "frequency_sum": 75
+    },
+    {
+        "word1": "controversy",
+        "word2": "bristol",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "cork",
+        "word2": "chloe",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "countless",
+        "word2": "demonic",
+        "frequency_sum": 122
+    },
+    {
+        "word1": "crib",
+        "word2": "characterization",
+        "frequency_sum": 143
+    },
+    {
+        "word1": "crystal",
+        "word2": "pulley",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "cumming",
+        "word2": "nicole",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "dense",
+        "word2": "sword",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "design",
+        "word2": "joule",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "deputy",
+        "word2": "vi",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "dick",
+        "word2": "earl",
+        "frequency_sum": 186
+    },
+    {
+        "word1": "dilute",
+        "word2": "face",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "discreet",
+        "word2": "motel",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "dissection",
+        "word2": "assessing",
+        "frequency_sum": 180
+    },
+    {
+        "word1": "distal",
+        "word2": "opposite",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "dollar",
+        "word2": "hm",
+        "frequency_sum": 45
+    },
+    {
+        "word1": "dna",
+        "word2": "missing",
+        "frequency_sum": 71
+    },
+    {
+        "word1": "doll",
+        "word2": "outer",
+        "frequency_sum": 130
+    },
+    {
+        "word1": "dracula",
+        "word2": "dr",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "ep",
+        "word2": "physics",
+        "frequency_sum": 133
+    },
+    {
+        "word1": "earth",
+        "word2": "au",
+        "frequency_sum": 216
+    },
+    {
+        "word1": "edition",
+        "word2": "prolonged",
+        "frequency_sum": 107
+    },
+    {
+        "word1": "edition",
+        "word2": "unknown",
+        "frequency_sum": 224
+    },
+    {
+        "word1": "engineering",
+        "word2": "tenth",
+        "frequency_sum": 106
+    },
+    {
+        "word1": "executive",
+        "word2": "hurry",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "flap",
+        "word2": "macro",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "flexible",
+        "word2": "boolean",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "fr",
+        "word2": "could",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "french",
+        "word2": "define",
+        "frequency_sum": 53
+    },
+    {
+        "word1": "funk",
+        "word2": "sale",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "gen",
+        "word2": "hatred",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "gag",
+        "word2": "ralph",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "gen",
+        "word2": "sacrifice",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "gen",
+        "word2": "samson",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "gasp",
+        "word2": "plunge",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "gen",
+        "word2": "glorious",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "gen",
+        "word2": "purge",
+        "frequency_sum": 68
+    },
+    {
+        "word1": "gen",
+        "word2": "nun",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "gen",
+        "word2": "know",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "gen",
+        "word2": "worship",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "gen",
+        "word2": "withhold",
+        "frequency_sum": 84
+    },
+    {
+        "word1": "gen",
+        "word2": "lift",
+        "frequency_sum": 524
+    },
+    {
+        "word1": "gen",
+        "word2": "albeit",
+        "frequency_sum": 118
+    },
+    {
+        "word1": "gen",
+        "word2": "gracious",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "gen",
+        "word2": "praise",
+        "frequency_sum": 1050
+    },
+    {
+        "word1": "gen",
+        "word2": "taste",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "gen",
+        "word2": "lod",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "gastritis",
+        "word2": "upset",
+        "frequency_sum": 49
+    },
+    {
+        "word1": "gerhard",
+        "word2": "v",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "giggle",
+        "word2": "linda",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "give",
+        "word2": "laozi",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "glutathione",
+        "word2": "natural",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "gigantic",
+        "word2": "demonic",
+        "frequency_sum": 92
+    },
+    {
+        "word1": "goat",
+        "word2": "silent",
+        "frequency_sum": 79
+    },
+    {
+        "word1": "greek",
+        "word2": "akm",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "hip",
+        "word2": "contraception",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "hiv",
+        "word2": "hiv",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "hypertension",
+        "word2": "parasite",
+        "frequency_sum": 122
+    },
+    {
+        "word1": "illness",
+        "word2": "hookworm",
+        "frequency_sum": 50
+    },
+    {
+        "word1": "incompetent",
+        "word2": "compare",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "infancy",
+        "word2": "chimpanzee",
+        "frequency_sum": 186
+    },
+    {
+        "word1": "invasive",
+        "word2": "gastroenteritis",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "invasive",
+        "word2": "incubation",
+        "frequency_sum": 124
+    },
+    {
+        "word1": "knee",
+        "word2": "ether",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "keeper",
+        "word2": "storm",
+        "frequency_sum": 95
+    },
+    {
+        "word1": "language",
+        "word2": "much",
+        "frequency_sum": 61
+    },
+    {
+        "word1": "license",
+        "word2": "sterling",
+        "frequency_sum": 90
+    },
+    {
+        "word1": "level",
+        "word2": "forecasting",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "louise",
+        "word2": "mentally",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "louise",
+        "word2": "so",
+        "frequency_sum": 124
+    },
+    {
+        "word1": "louise",
+        "word2": "spread",
+        "frequency_sum": 124
+    },
+    {
+        "word1": "louise",
+        "word2": "actually",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "more",
+        "word2": "fun",
+        "frequency_sum": 159
+    },
+    {
+        "word1": "manner",
+        "word2": "tilt",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "mandolin",
+        "word2": "p",
+        "frequency_sum": 54
+    },
+    {
+        "word1": "mammary",
+        "word2": "chin",
+        "frequency_sum": 41
+    },
+    {
+        "word1": "mammary",
+        "word2": "chin",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "methodist",
+        "word2": "fox",
+        "frequency_sum": 71
+    },
+    {
+        "word1": "merlin",
+        "word2": "repertoire",
+        "frequency_sum": 58
+    },
+    {
+        "word1": "metro",
+        "word2": "generate",
+        "frequency_sum": 47
+    },
+    {
+        "word1": "mexico",
+        "word2": "woody",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "minecraft",
+        "word2": "less",
+        "frequency_sum": 80
+    },
+    {
+        "word1": "n",
+        "word2": "transcriptome",
+        "frequency_sum": 42
+    },
+    {
+        "word1": "naturalization",
+        "word2": "seizure",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "nationality",
+        "word2": "differentiated",
+        "frequency_sum": 40
+    },
+    {
+        "word1": "negotiator",
+        "word2": "lindsey",
+        "frequency_sum": 46
+    },
+    {
+        "word1": "novo",
+        "word2": "latin",
+        "frequency_sum": 85
+    },
+    {
+        "word1": "novo",
+        "word2": "latin",
+        "frequency_sum": 116
+    },
+    {
+        "word1": "opera",
+        "word2": "opec",
+        "frequency_sum": 69
+    },
+    {
+        "word1": "optional",
+        "word2": "lit",
+        "frequency_sum": 44
+    },
+    {
+        "word1": "or",
+        "word2": "above",
+        "frequency_sum": 205
+    },
+    {
+        "word1": "over",
+        "word2": "diverged",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "parasite",
+        "word2": "metastatic",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "panties",
+        "word2": "cleaning",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "penis",
+        "word2": "rip",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "pension",
+        "word2": "smithsonian",
+        "frequency_sum": 43
+    },
+    {
+        "word1": "perspiration",
+        "word2": "coated",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "pharyngitis",
+        "word2": "symmetrical",
+        "frequency_sum": 218
+    },
+    {
+        "word1": "pete",
+        "word2": "sucked",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "powerful",
+        "word2": "innate",
+        "frequency_sum": 73
+    },
+    {
+        "word1": "pricing",
+        "word2": "board",
+        "frequency_sum": 60
+    },
+    {
+        "word1": "pussy",
+        "word2": "lauren",
+        "frequency_sum": 127
+    },
+    {
+        "word1": "rebuild",
+        "word2": "sheryl",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "rebirth",
+        "word2": "soaked",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "rebound",
+        "word2": "diarrhea",
+        "frequency_sum": 226
+    },
+    {
+        "word1": "recognize",
+        "word2": "compaq",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "regional",
+        "word2": "slap",
+        "frequency_sum": 195
+    },
+    {
+        "word1": "repetition",
+        "word2": "pulmonary",
+        "frequency_sum": 56
+    },
+    {
+        "word1": "response",
+        "word2": "quiz",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "retarded",
+        "word2": "gum",
+        "frequency_sum": 52
+    },
+    {
+        "word1": "righteous",
+        "word2": "elevator",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "riding",
+        "word2": "contents",
+        "frequency_sum": 179
+    },
+    {
+        "word1": "samuel",
+        "word2": "little",
+        "frequency_sum": 48
+    },
+    {
+        "word1": "scent",
+        "word2": "tonight",
+        "frequency_sum": 78
+    },
+    {
+        "word1": "sclerosis",
+        "word2": "fresh",
+        "frequency_sum": 134
+    },
+    {
+        "word1": "scream",
+        "word2": "melody",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "sexual",
+        "word2": "bikini",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "shoulder",
+        "word2": "diverticulitis",
+        "frequency_sum": 144
+    },
+    {
+        "word1": "slowly",
+        "word2": "daddy",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "somewhat",
+        "word2": "melody",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "sperm",
+        "word2": "kimberly",
+        "frequency_sum": 65
+    },
+    {
+        "word1": "successful",
+        "word2": "online",
+        "frequency_sum": 73
+    },
+    {
+        "word1": "suck",
+        "word2": "hello",
+        "frequency_sum": 62
+    },
+    {
+        "word1": "summarize",
+        "word2": "fourth",
+        "frequency_sum": 146
+    }
+]

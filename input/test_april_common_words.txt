@@ -1,0 +1,16 @@
+king
+queen
+dog
+mouse
+man
+woman
+nice
+bad
+good
+beautiful
+ugly
+car
+venom
+bike
+spike
+elder
